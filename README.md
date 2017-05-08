@@ -30,3 +30,7 @@ Coming soon
 ## Design Tools
 + [Font Pair](http://fontpair.co/): Helps designers pair Google Fonts
 + [Modular Scale](http://www.modularscale.com/): a tool to help web designers size their type in a more meaningful way
+
+
+##Galleries
++ [Fonts in Use](https://fontsinuse.com): An independent archive of typography. Good for searching typographical eras.
