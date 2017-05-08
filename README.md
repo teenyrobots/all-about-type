@@ -18,6 +18,9 @@ I can't contain my love for letters and type, so I made this repo to contain som
 ## Licensing + Type
 Coming soon
 
+##Digital Type
++ **Variable font**: Glyphs can respond to changes in viewport sizes by altering width, x-height, ascender/descender height, etc. [More here](https://blog.typekit.com/2016/09/14/variable-fonts-a-new-kind-of-font-for-flexible-design/).
+
 ## Free Fonts
 + [Google fonts](https://fonts.google.com/): An intuitive and robust directory of open source designer web fonts.
 + [DaFont](http://www.dafont.com/): Archive of freely downloadable fonts. Browse by alphabetical listing, by style, by author or by popularity.
