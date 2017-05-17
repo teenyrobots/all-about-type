@@ -16,7 +16,7 @@ I can't contain my love for letters and type, so I made this repo to contain som
 + **[Butterick's Practical Typography](http://practicaltypography.com/)**: Everything you need to know about the basics of typography.
 
 ## Licensing + Type
-Coming soon
++ **[Typekit licensing](https://helpx.adobe.com/typekit/using/font-licensing.html)**: Rules of the game for Typekit fonts
 
 ##Digital Type
 + **Variable font**: Glyphs can respond to changes in viewport sizes by altering width, x-height, ascender/descender height, etc. [More here](https://blog.typekit.com/2016/09/14/variable-fonts-a-new-kind-of-font-for-flexible-design/).
