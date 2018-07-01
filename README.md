@@ -6,7 +6,7 @@ I can't contain my love for letters and type, so I made this repo to contain som
 
 **Font**: A family member of a typeface (e.g., Futura Book)
 
-**Lettering**: Type that is illustrated, design, or otherwise created without using fonts
+**Lettering**: Type that is illustrated, designed, or otherwise created without using fonts
 
 ## Quick Guides + Cheatsheets
 + **[Typography in Ten Minutes](http://practicaltypography.com/typography-in-ten-minutes.html)**: "This is a bold claim, but I stand be­hind it: if you learn and fol­low these five ty­pog­ra­phy rules, you will be a bet­ter ty­pog­ra­pher than 95% of pro­fes­sional writ­ers and 70% of pro­fes­sional de­sign­ers."
@@ -18,7 +18,7 @@ I can't contain my love for letters and type, so I made this repo to contain som
 ## Licensing + Type
 + **[Typekit licensing](https://helpx.adobe.com/typekit/using/font-licensing.html)**: Rules of the game for Typekit fonts
 
-##Digital Type
+## Digital Type
 + **Variable font**: Glyphs can respond to changes in viewport sizes by altering width, x-height, ascender/descender height, etc. [More here](https://blog.typekit.com/2016/09/14/variable-fonts-a-new-kind-of-font-for-flexible-design/).
 
 ## Free Fonts
@@ -31,6 +31,10 @@ I can't contain my love for letters and type, so I made this repo to contain som
 + [Font Pair](http://fontpair.co/): Helps designers pair Google Fonts
 + [Modular Scale](http://www.modularscale.com/): a tool to help web designers size their type in a more meaningful way
 
+## Building your own
++ **[Glyphs](https://glyphsapp.com)**: Design software for creating (and editing) your own typefaces
++ [Calligraphr](https://www.calligraphr.com/en/):  Quick start your own typeface with this easy-to-use generator
 
-##Galleries
+
+## Galleries
 + [Fonts in Use](https://fontsinuse.com): An independent archive of typography. Good for searching typographical eras.
